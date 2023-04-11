@@ -1,5 +1,5 @@
-# Hey Everyone! I'm [Vasukumar](https://github.com/Vasukumar3) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
-<br><br>
+# Hey Everyone! I'm [Palani Vasu Kumar](https://github.com/Vasukumar3) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+
 
 # 💫 About Me:
 - 🔭 I’m currently working on ... finding a suitable job in the field of Python development, where I can apply my deep understanding of both basic and advanced concepts. I have experience building web applications using Django, performing data analysis using Pandas and Numpy, creating visualizations using Matplotlib, web scraping using BeautifulSoup, working with MySQL databases, and managing version control using Git and GitHub.<br>- 🌱 I’m currently learning ... about job searching strategies, networking, and enhancing my portfolio and resume to highlight my expertise in Python development.<br>- 👯 I’m looking to collaborate on ... open-source Python projects, hackathons, or any opportunities where I can work with other developers and contribute to the Python development community.<br>- 🤔 I’m looking for help with ... finding suitable job openings in the Python development field, creating an impressive resume and cover letter, preparing for job interviews, and connecting with potential employers.<br>- 💬 Ask me about ... my experience working with Python and data analysis<br>- 📫 How to reach me: ... vasukumarpalani@gmail.com
